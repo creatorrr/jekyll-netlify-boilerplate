@@ -8,4 +8,3 @@ intro_paragraph: >-
   Interfaces, reach out to us.
 ---
 
-**Send us a message**
